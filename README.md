@@ -141,7 +141,6 @@ OpenBricx is built independently and funded out of pocket. If you'd like to help
 
 - 💖 [**GitHub Sponsors**](https://github.com/sponsors/OpenBricx)
 - ☕ **Buy Me a Coffee** <!-- TODO: add your link -->
-- 🛒 **Tindie** — buy kits & assembled boards *(coming soon)*
 
 Even a star or a share helps more than you'd think. 🙏
 
